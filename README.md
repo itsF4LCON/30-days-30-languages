@@ -2,7 +2,7 @@
 
 A build streak: **one small project every day for 30 days, each in a different programming language.**
 
-No subject theme — the single constraint is the language. The projects lean into **graphics / rendering** and **machine learning**, because those are the ones worth showing and the ones that actually teach you something structural rather than just syntax.
+No subject theme, the single constraint is the language. The projects lean into **graphics / rendering** and **machine learning**, because those are the ones worth showing and the ones that actually teach you something structural rather than just syntax.
 
 Built by [F4LCON](https://github.com/itsF4LCON).
 
@@ -11,7 +11,7 @@ Built by [F4LCON](https://github.com/itsF4LCON).
 ## The rules
 
 - **One language per day.** Thirty days, thirty languages, no repeats beyond what the list already allows.
-- **Each project is day-sized** — roughly 2 to 4 hours. If something wants to be bigger, it ships as a lighter version today and goes on a "someday" note.
+- **Each project is day-sized** Roughly 2 to 4 hours. If something wants to be bigger, it ships as a lighter version today and goes on a "someday" note.
 - **Done means done.** A day counts as shipped only when it has:
   - its own folder,
   - its own README (what it is, how to run, a screenshot),
@@ -60,7 +60,7 @@ Built by [F4LCON](https://github.com/itsF4LCON).
 
 ## Repo layout
 
-Everything lives in this one repo. Each day is **fully self-contained** in its own folder — its own build files, its own README, its own output — so any single day can be built on its own without touching the rest.
+Everything lives in this one repo. Each day is **fully self-contained** in its own folder, its own build files, its own README, its own output, so any single day can be built on its own without touching the rest.
 
 ```
 30-days-30-languages/
